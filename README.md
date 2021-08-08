@@ -22,5 +22,8 @@ Object Manipulation – Allows move/copy of objects & their attributes (scale, r
                       
 Object Replacement -  Replaces all selected object(s) with the Active object with one mouse click.
 
+Object Curve Creator –  Curve management module that gives you ability to add preset curves, as well 
+                      as deleting curves and associated constraints, while leaving objects intact
+
 Object Along Curve –  Enhanced Duplicate Object Along Curve module that gives you more control 
                       over orientation of the object, spacing along the curve, and adjustments on the fly
