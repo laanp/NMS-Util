@@ -1,4 +1,4 @@
-# NMS-Util
+# NMS-Util - v1.14
  No Man's Sky Base Building Utility Addon for Blender
  
  Welcome to the NMS Util, a base building add-on in Blender, that adds object manipulation utilities when base building in Blender for No Man's Sky.
@@ -26,4 +26,6 @@ Object Curve Creator –  Curve management module that gives you ability to add 
                       as deleting curves and associated constraints, while leaving objects intact
 
 Object Along Curve –  Enhanced Duplicate Object Along Curve module that gives you more control 
-                      over orientation of the object, spacing along the curve, and adjustments on the fly
+                      over orientation of the object, spacing along the curve, and adjustments on the fly.
+					  Merged the Curve Creator into this module that gives you ability to add preset curves, as well 
+                      as deleting curves and associated constraints, while leaving objects intact.
