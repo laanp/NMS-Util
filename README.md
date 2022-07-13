@@ -1,4 +1,4 @@
-# NMS-Util - v1.16
+# NMS-Util - v1.17
  No Man's Sky Base Building Utility Addon for Blender
  
  Welcome to the NMS Util, a base building add-on in Blender, that adds object manipulation utilities when base building in Blender for No Man's Sky.
